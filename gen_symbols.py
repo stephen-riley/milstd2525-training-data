@@ -1,6 +1,6 @@
 import csv
 import json
-import milsymbolpy as ms
+from ..milsymbolpy import milsymbolpy as ms
 import os
 import re
 
