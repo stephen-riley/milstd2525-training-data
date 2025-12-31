@@ -1,0 +1,109 @@
+name	entity_id	common	size_range
+Command and Control	110000		5-8
+Broadcast Transmitter Antennae	110100		5-8
+Civil Affairs	110200		5-8
+Civil-Military Cooperation	110300		5-8
+Information Operations	110400		5-8
+Liaison	110500		5-8
+Military Information Support Operations (MISO)	110600		5-8
+MISO - Broadcast Transmitter Antennae	110601		5-8
+Radio	110700		1-5
+Radio Relay	110800		1-5
+Radio Teletype Center	110900		1-5
+Signal	111000		1-5
+Signal - Radio	111001		1-5
+Signal - Radio Relay	111002		1-5
+Signal - Teletype	111003		1-5
+Signal - Video Imagery (Combat Camera)	111005		1-5
+Video Imagery (Combat Camera)	111200		5-8
+Space	111300		5-8
+Special Troops	111400		5-8
+Multi-Domain Operations	111500		5-8
+Movement and Maneuver	120000		4-5
+Air Assault with Organic Lift	120100		4-5
+Air Traffic Services/Airfield Operations	120200		4-5
+Antitank/Antiarmor	120400		4-5
+Antitank/Antiarmor - Armored	120401		4-5
+Antitank/Antiarmor - Motorized	120402		4-5
+Armor/Mechanized	120500	x	1-8
+Armor/Mechanized - Reconnaissance/Cavalry/Scout	120501	x	1-7
+Armor/Mechanized - Amphibious	120502		1-6
+Army Aviation/Aviation Rotary Wing	120600		1-6
+Army Aviation/Aviation Rotary Wing - Reconnaissance	120601		1-6
+Aviation Composite	120700		4-5
+Aviation Fixed Wing	120800		1-6
+Aviation Fixed Wing - Reconnaissance	120801		1-6
+Combat	120900		4-5
+Combined Arms	121000		4-5
+Infantry	121100	x	2-8
+Infantry - Amphibious	121101	x	2-6
+Infantry - Armored/Mechanized/Tracked	121102	x	2-6
+Infantry - Main Gun System, Infantry	121103	x	2-6
+Infantry - Motorized	121104	x	2-6
+Infantry - Infantry Fighting Vehicle	121105	x	2-6
+Infantry - Main Gun System	121106	x	2-6
+Infantry - Stryker	121100070611	x	2-8
+Observer	121200	x	4-5
+Reconnaissance/Cavalry/Scout	121300	x	4-6
+Reconnaissance/Cavalry/Scout - Reconnaissance and Surveillance	121301	x	4-6
+Reconnaissance/Cavalry/Scout - Marine	121302	x	4-6
+Reconnaissance/Cavalry/Scout - Motorized	121303	x	4-6
+Sea Air Land (SEAL)	121400		4-5
+Sniper	121500		4-5
+Surveillance	121600		4-5
+Special Forces	121700		1-6
+Special Operations Forces (SOF)	121800		1-6
+Special Operations Forces (SOF) - Fixed Wing MISO	121801		1-6
+Special Operations Forces (SOF) - Ground	121802		1-6
+Special Operations Forces (SOF) - Special SSNR	121804		1-6
+Special Operations Forces (SOF) - Underwater Demolition	121805		1-6
+Unmanned Aerial Systems	121900		4-5
+Ranger	122000		4-5
+Fires	130000		4-5
+Air Defense	130100		3-6
+Air Defense - Main Gun System	130101		3-6
+Air Defense - Missile	130102		3-6
+Air Defense - Air and Missile Defense	130103		3-6
+Air/Land Naval Gunfire Liaison	130200		4-5
+Field Artillery	130300	x	3-6
+Field Artillery Observer	130400		4-5
+Joint Fire Support	130500		4-5
+Meteorological	130600		4-5
+Missile	130700		4-5
+Mortar	130800		3-4
+Mortar - Self-Propelled Wheeled	130802		3-4
+Survey	130900		4-5
+Protection	140000		4-5
+CBRN Defense	140100		4-5
+CBRN Defense - Motorized	140102		4-5
+CBRN Defense - Reconnaissance	140103		4-5
+CBRN Defense - Reconnaissance Equipped	140105		4-5
+CBRN Defense - CBRN High-Yield Explosives	140106		4-5
+Combat Support	140200		4-5
+Criminal Investigation Division	140300		4-5
+Diving	140400		4-5
+Dog	140500		4-5
+Drilling	140600		4-5
+Engineer	140700	x	2-6
+Engineer - Mechanized	140701	x	2-6
+Engineer - Motorized	140702	x	2-6
+Engineer - Reconnaissance	140703	x	2-6
+EOD	140800		1-5
+Field Camp Construction	140900		4-5
+Fire Fighting	141000		4-5
+Geospatial Support	141100		4-5
+Military Police	141200		2-5
+Mine	141300		4-5
+Mine Clearing	141400		4-5
+Mine Launching	141500		4-5
+Mine Laying	141600		4-5
+Security	141700		4-5
+Security - Motorized	141702		4-5
+Search and Rescue	141800		4-5
+Search and Rescue - Isolated Personnel	141801		4-5
+Shore Patrol	142000		4-5
+Topographic/Geospatial	142100		4-5
+Missile Defense	142200		4-5
+Sustainment	160000	x	3-6
+Medical	161300	x	1-6
+Transportation	163600	x	3-6
